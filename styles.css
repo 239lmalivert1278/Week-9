@@ -1,0 +1,12 @@
+alert {
+ background-color: aqua;
+}
+primarybutton:hover {
+background-color: blue;
+}
+tr:hover {
+background-color: blue;
+}
+div {
+    background-color: aqua;
+}
